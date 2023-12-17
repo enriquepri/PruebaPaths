@@ -2,6 +2,7 @@ import express from 'express'
 import * as diaryServices from '../services/diaryServices'
 import toNewDiaryEntry from '../utils'
 import { returnDiaries } from '@controller/diaries.controller'
+// import { returnDiaries } from '../controller/diaries.controller'
 
 const router = express.Router()
 

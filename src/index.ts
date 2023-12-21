@@ -1,7 +1,7 @@
 import express from 'express' // ESModules
 // const express = require('express') = commonjs
 
-// mport { swaggerConfig } from './swagger.config'// Prueba personal, no del video original
+// import { swaggerConfig } from './swagger.config'// Prueba personal, no del video original
 
 import diaryRouter from './routes/diaries'
 
